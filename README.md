@@ -67,7 +67,7 @@ The [expected value][mean] for a [Lévy][levy-distribution] random variable with
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mean@v0.2.1-esm/index.mjs';
 ```
 
 #### mean( mu, c )
@@ -132,7 +132,7 @@ y = mean( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mean@v0.2.1-esm/index.mjs';
 
 var mu;
 var c;

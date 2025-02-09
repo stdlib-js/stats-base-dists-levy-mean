@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f505ed5`](https://github.com/stdlib-js/stdlib/commit/f505ed56b0c0cc20458f9e51760d45d5abd60b36) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`a0cf7f4`](https://github.com/stdlib-js/stdlib/commit/a0cf7f458576b1a1d4222fbd75d6544b57edcedd) - **feat:** add C implementation for `stats/base/dists/levy/mean` [(#4071)](https://github.com/stdlib-js/stdlib/pull/4071) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 
 </details>
